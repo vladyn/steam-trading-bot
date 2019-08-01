@@ -3,5 +3,5 @@ const client = new SteamUser();
 
 const loginOptions = {
   accountName: 'CTradeBot1',
-  password: 'CTradeisprettygood1'
+  password: ''
 }
